@@ -26,7 +26,7 @@ diagnoses, and discharge information across multiple hospitals.
 - `healthcare_dashboard.twbx` — Tableau workbook
 
 ![Overview Dashboard](./images/overview.png)
-![Clinical Dashboard](./images/Clinical.png)
+![Clinical Dashboard](./images/clinical.png)
 ![Financial Dashboard](./images/financial.png)
 ![Trends Dashboard](./images/trends.png)
 ![Dr & Hospital Performance Dashboard](./images/conclusion.png)
